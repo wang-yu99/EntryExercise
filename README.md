@@ -1,4 +1,18 @@
-in order to run the application you should paste API key in the OpenAiService.kt line 19(which is offered in the Entry exercise for the “Unhooked from the Smartphone” thesis)
-then run the app in the virtual device : my app screen ->open instagram ->wait for the toast to go back to my application to give the permission for capture screenshot -> click start now in the toast -> go back to instagram ,wait for 10 seconds and check notification of LLM Result
+Steps to Run the Application:
 
-bc i have problem with image format so cannot get corrected evaluation result but call the gpt api successfully
+Add the API Key:
+
+In the OpenAiService.kt file, go to line 19 and paste your API key (which is provided in the Entry exercise for the "Unhooked from the Smartphone" thesis).
+Run the App on the Virtual Device:
+
+Launch the app on your virtual device.
+Open Instagram within the app.
+Follow the Flow:
+Wait for the toast message to appear, then go back to the application.
+Click "Start Now" to grant permission to capture screenshots in the toast message.
+
+Wait for Results:
+After clicking "Start Now," go back to Instagram.
+Wait for about 10 seconds, then check for the LLM Result notification.
+Note on the Image Format Issue:
+I have trouble with the image format. Although successfully calling the GPT API, still unable to get the correct evaluation results because of this issue. 
