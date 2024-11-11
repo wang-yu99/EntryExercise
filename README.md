@@ -1,14 +1,14 @@
 Steps to Run the Application:
 
 Add the API Key:
-
 In the OpenAiService.kt file, go to line 19 and paste your API key (which is provided in the Entry exercise for the "Unhooked from the Smartphone" thesis).
-Run the App on the Virtual Device:
 
+Run the App on the Virtual Device:
 Launch the app on your virtual device.
-Open Instagram within the app.
+Open Instagram 
+
 Follow the Flow:
-Wait for the toast message to appear, then go back to the application.
+Wait for the toast message to appear, then go back to my application.
 Click "Start Now" to grant permission to capture screenshots in the toast message.
 
 Wait for Results:
