@@ -14,5 +14,7 @@ Click "Start Now" to grant permission to capture screenshots in the toast messag
 Wait for Results:
 After clicking "Start Now," go back to Instagram.
 Wait for about 10 seconds, then check for the LLM Result notification.
+
+
 Note on the Image Format Issue:
 I have trouble with the image format. Although successfully calling the GPT API, still unable to get the correct evaluation results because of this issue. 
